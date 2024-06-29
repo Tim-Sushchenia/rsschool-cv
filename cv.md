@@ -15,7 +15,9 @@
 ---
 
 ## **Skills**
-
+* C++ (Basics)
+* Java (Basics)
+* HTML, CSS
 ---
 
 ## **Codes**
@@ -34,7 +36,7 @@ int Main {
 ---
 
 ## **Experience**
-
+Finished HTML and CSS courses in 2021. Currently learning C++ and Java in my university. Just started studying RS Schools Course «JavaScript/Front-end. Stage 0».
 ---
 
 ## **Languages**
