@@ -1,4 +1,4 @@
-## rsschool-cv2
+# rsschool-cv2
 
 # Tsimafei Sushchenia
 ---
