@@ -11,7 +11,7 @@
 ---
 
 ## **About me**
-My name is Tim. I'm from Belarus. I am 19 years old, in 2023 graduated from high school, and now I am studying in Poland at university, faculty of computer science, physics and mathematics. 
+My name is Tim. I'm from Belarus. I am 19 years old, in 2023 graduated from high school, and now I am studying in Poland at university UMCS(Uniwersytet Marii Curie-Skłodowskiej), faculty of computer science, physics and mathematics. 
 
 A few years ago I started to get interested in the IT sphere. And then I went to my first courses in the company IT-club. there I studied for about three years, during this time I learned HTML, CSS and a little bit of JavaScript and react. 
 
